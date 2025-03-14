@@ -15,7 +15,7 @@ public class StudentTest {
         students.add(new Student(103,"Garima","E","Sirsa"));
         students.add(new Student(106,"Karishma","D","Sirsa"));
         students.add(new Student(105,"Aman","C","Panipat"));
-        students.add(new Student(107,"Logan","B","Gurgaon"));
+        students.add(new Student(107,"Logan","Bit co","Gurgaon"));
         students.add(new Student(108,"Kendell","A","Gurgaon"));
 
 //        Collections.sort(students);
