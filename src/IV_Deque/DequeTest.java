@@ -1,6 +1,7 @@
 package IV_Deque;
 
 import java.util.ArrayDeque;
+import java.util.HashMap;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.PriorityBlockingQueue;
 
